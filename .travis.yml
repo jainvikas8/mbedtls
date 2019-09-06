@@ -32,7 +32,7 @@ after_failure:
 env:
   global:
     - SEED=1
-    - secure: "AcEXVLGRSw0h8jbt7VueLyuR2tRWCmuPvmSSaWcDXCHYRLD6sa5eLM3DpMLLQUtl5+RaM0LYkd3idfbObG8IySeC3LctP8BTgdK/us0c6POSawtu0aU1cbcODmrSRtbFYZnEAV+nFeVKEekmMglEsCXEQphmS4zWL848MYPWMXc="
+    - secure: "AshszDb2fIHOxYEfgIYGJi+O3YT/y80qz42M1+8KYXYwVHKR6FOTDICsOwO80aSW3fU2wVsowvppyo1SaUkvu5bx/F2vh0w0kih9xTZM1cvA1/DxNGc1BS9viXJscJ5Xl0JU6YRnb/EHqpCav63BvlSZmjWJhlVmXbDUUKTLesA="
 
 before_install:
   # The Coverity Scan certificate-chain is missing an intermediate certificate
